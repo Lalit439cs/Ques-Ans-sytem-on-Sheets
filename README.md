@@ -1,4 +1,4 @@
-# Ques-Ans-sytem-on-Sheets
+# Ques-Ans-system-on-Sheets
 question answering system that operates on Sheets.
 
 ### Requirements
