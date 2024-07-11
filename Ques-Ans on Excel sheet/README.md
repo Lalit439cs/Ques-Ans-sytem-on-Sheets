@@ -1,5 +1,5 @@
 # Ques-Ans-system-on-Sheets
-question answering system that operates on Sheets.
+Developed a question-answering system that operates on unstructured data in Sheets.
 
 ### Requirements
 Execute the following to install all requirements:
