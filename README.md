@@ -1,6 +1,10 @@
 # Ques-Ans-system-on-Sheets
-Developed a question-answering system that operates on unstructured data in Sheets.
-
+ • Designed and built a question-answering system for unstructured spreadsheet data <br>
+ • Developed a conversational agentic system using OpenAI-functions (GPT-3.5-Turbo) that reasons and acts based on either
+ lookup-type questions or analytical questions<br>
+ • Implemented RAG-based RetrievalQA chain for direct answers from unstructured XLSX sheets for lookup questions<br>
+ • Preprocessed & extracted tables for analytical questions to avoid LLM hallucination problems, then utilized a computing agent
+ that uses PythonAstREPLTool for accurate dataframe computations<br>
 ### Requirements
 Execute the following to install all requirements:
 ```
